@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @Lupesms97
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in learn 
+- 🌱 I’m currently learning Python, Java e SQLite
+- 💞️ I’m looking to collaborate on everything that cann increase my knowledge
+- 📫 How to reach me lupesms97@gmail.com
 
-<!---
-Lupesms97/Lupesms97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

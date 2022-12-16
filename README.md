@@ -1,6 +1,6 @@
 - 👋 Oi, eu sou o Felipe.
 - 👀 Eu estou buscando por oportunidade, principalmente, de estágio.
 - 🌱 Atualmente eu estou aprendendo e realizando projetos com Python e SQLite; Java e mySql.
-- 💞️ Busco colabora e aprendender ao máximo para aumentar meu knowhow
+- 💞️ Busco colabora e aprendender ao máximo para aumentar meu knowhow para desenvolvimento back-end/analise de dados.
 - 📫 E em caso de alguma dúvida só me chamar pelo email -> lupesms97@gmail.com
 

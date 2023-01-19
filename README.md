@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente eu estou trabalhando em um projeto [de Cadrastro de clientes:](https://github.com/Lupesms97/TodoAppProjeto)
 
-- 🌱 Atualmente eu estou aprendendo e realizando projetos com **Java, Python, MySql, Sqlite, AWS, Power Bi e usando o Maven pra Maven build e dependências,**
+- 🌱 Atualmente eu estou aprendendo e realizando projetos com **Java, Python, Git flow, MySql, Sqlite, AWS, Power Bi e usando o Maven pra Maven build e dependências,**
 
 - 📫 E em caso de alguma dúvida só me chamar pelo email -> **lupesms97@gmail.com**
 

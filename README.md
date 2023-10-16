@@ -7,7 +7,7 @@
 
 - 🌱 Atualmente eu estou aprendendo e realizando projetos no back-end com **Java, Spring Boot, Git flow, MySql, Sqlite, AWS e usando diversas outras ferramentas para versionamento e migração de banco de dados, além de desenvolvimento orientado a teste com o JUnit e Mockito e afins**
   
--  🌱 No Front-end com **Angualar, NgRx, RxJS e outras tecnologias**
+-  🌱 No Front-end com **Angular, NgRx, RxJS e outras tecnologias**
 
 - 📫 E em caso de alguma dúvida só me chamar pelo email -> **lupesms97@gmail.com**
 

@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lupesms97&label=Profile%20views&color=0e75b6&style=flat" alt="lupesms97" /> </p>
 
-- 🔭 Atualmente eu estou trabalhando em um projeto [de Cadrastro de clientes:](https://github.com/Lupesms97/TodoAppProjeto)
+- 🔭 Atualmente eu estou trabalhando em um projeto [CRM com Angular e Java:](https://github.com/Lupesms97/AuthComponent-NGRX/tree/main/AuthLoginComponent-NGRXTest)
 
 - 🌱 Atualmente eu estou aprendendo e realizando projetos no back-end com **Java, Spring Boot, Git flow, MySql, Sqlite, AWS e usando diversas outras ferramentas para versionamento e migração de banco de dados, além de desenvolvimento orientado a teste com o JUnit e Mockito e afins**
   

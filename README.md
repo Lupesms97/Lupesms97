@@ -75,6 +75,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Lupesms97/Lupesms97/output/snake.svg" alt="Snake animation" />
-
 ###

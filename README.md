@@ -1,4 +1,4 @@
-<h2 align="left">Olá Meu nome é Felipe e sou só um apaixonado por aprender!🎓</h2>
+<h2 align="left">Olá Meu nome é Felipe engenheiro back-end com vivências em front-end🎓</h2>
 
 ###
 
